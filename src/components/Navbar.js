@@ -7,7 +7,7 @@ export const Navbar = () => {
         <div className="bg-dark">
             <div className="header">
                 <nav>
-                <Link className="text-light" to="/Home">Inicio</Link>
+                <Link className="text-light" to="/">Inicio</Link>
                 <Link className="text-light" to="/Registro">Registra</Link>
                 <Link className="text-light" to="/Todos">Todos</Link>
                 </nav>
