@@ -16,7 +16,8 @@ export const AppRouter = () => {
                 <Routes>
                     <Route exact path="/Registro" element={<Form/>}/>
                     <Route exact path="/Todos" element={<List/>}/>
-                    <Route path="/" element={<Home/>}/>
+                    <Route exact path="/Home" element={<Home/>}/>
+                    <Route exact path="/" element={<Home/>}/>
                 </Routes>
             </Router>
         </div>
