@@ -1,0 +1,27 @@
+
+
+.header{
+    text-align: center;
+    color: rgb(173, 69, 69);
+    padding: 0.3%;
+    font-size: 100%;
+    /* background-color: rgba(230, 230, 230, 0.397); */
+    font-weight: bold;
+}
+
+.header nav{
+    display: inline-block;
+    padding-left:10%;
+    padding-right:10%; 
+}
+
+.text-light{
+    text-decoration: none;
+    letter-spacing: 5px;
+    padding-right:10%; 
+}
+
+
+.text-light:hover{
+    color: rgba(92, 170, 223, 0.781);
+}

@@ -1,0 +1,1 @@
+export const url = 'https://json-server-tucarro-sim01.herokuapp.com/data/'
