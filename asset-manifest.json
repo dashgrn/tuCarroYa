@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tuCarroYa/static/css/main.fa8c4bc8.chunk.css",
-    "main.js": "/tuCarroYa/static/js/main.d174ebe1.chunk.js",
-    "main.js.map": "/tuCarroYa/static/js/main.d174ebe1.chunk.js.map",
+    "main.js": "/tuCarroYa/static/js/main.087e9dac.chunk.js",
+    "main.js.map": "/tuCarroYa/static/js/main.087e9dac.chunk.js.map",
     "runtime-main.js": "/tuCarroYa/static/js/runtime-main.6c13d1bc.js",
     "runtime-main.js.map": "/tuCarroYa/static/js/runtime-main.6c13d1bc.js.map",
     "static/js/2.50fc9834.chunk.js": "/tuCarroYa/static/js/2.50fc9834.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6c13d1bc.js",
     "static/js/2.50fc9834.chunk.js",
     "static/css/main.fa8c4bc8.chunk.css",
-    "static/js/main.d174ebe1.chunk.js"
+    "static/js/main.087e9dac.chunk.js"
   ]
 }
